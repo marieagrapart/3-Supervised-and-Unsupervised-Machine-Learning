@@ -1,6 +1,6 @@
 # 3-Supervised-and-Unsupervised-Machine-Learning
 
-### Video: **
+### Video: *https://share.vidyard.com/watch/3rYiqkwCLBGKcnSvDT28Dq?*
 
 It'a a student project with the following gloal : 
 
