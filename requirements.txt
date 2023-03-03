@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-Learn
+matplotlib.widgets
+datetime
+plotly.express
+xgboost
+matplotlib.pyplot
+warnings
+seaborn
+plotly.graph_objects
+plotly.io
